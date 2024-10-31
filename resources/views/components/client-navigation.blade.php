@@ -21,22 +21,7 @@
                     <a href="menu" class="nav-item nav-link">Our Menu</a>
                     <a href="blog" class="nav-item nav-link">Our Blog</a>
                     <a href="contact" class="nav-item nav-link">Contact Us</a>
-                    {{-- <a href="#about.html" class="nav-item nav-link">About</a> --}}
-                    {{-- <a href="#service.html" class="nav-item nav-link">Services</a> --}}
-                    {{-- <a href="#event.html" class="nav-item nav-link">Events</a> --}}
-                    {{-- <div class="nav-item dropdown"> --}}
-                        {{-- <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a> --}}
-                        {{-- <div class="dropdown-menu bg-light"> --}}
-                            {{-- <a href="#book.html" class="dropdown-item">Booking</a> --}}
-                            {{-- <a href="#blog.html" class="dropdown-item">Our Blog</a> --}}
-                            {{-- <a href="#team.html" class="dropdown-item">Our Team</a> --}}
-                            {{-- <a href="#testimonial.html" class="dropdown-item">Testimonial</a> --}}
-                            {{-- <a href="#404.html" class="dropdown-item">404 Page</a> --}}
-                        {{-- </div> --}}
-                    {{-- </div> --}}
                 </div>
-                {{-- <button class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button> --}}
-                {{-- <a href="cart" class="btn btn-primary py-2 px-4 d-none d-xl-inline-block rounded-pill">Order Now</a> --}}
             </div>
         </nav>
     </div>
